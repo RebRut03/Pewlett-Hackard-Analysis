@@ -29,5 +29,5 @@ Are there enough qualified, retirement-ready employees in the departments to men
 There are only 1549 retirement-ready employees eleibilbe to mentor the next generation Pewlett Hackard employees.  This is only 2% compared to the number of retirement roles needing to be filled.  This does not seem to be a sufficient enough number to mentor the remaining employees. Pewlett Hackard may want to consider broadening the scope to include employees born in other years in addition to 1965 to help pick up the slack.  For example if you broadened the birth year of employees to include 1964 in addtion to 
 1965, the number of eligible mentors will increase to 22% instead of 2%.
 Broadened Mentorship Eligibility Query:
-![Mentorship_Eligibility](Screenshots/Mentorship_Eligibility.PNG)
+![Broadened_Mentorship_Eligibility](Screenshots/Broadened_Mentorship_Eligibility.PNG)
 or a  or offering incentives to retirment eligible employees who are Senior Staff and Engineers to come back as contractors for a certain amount of time to help with the mentoring.
