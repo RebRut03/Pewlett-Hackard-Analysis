@@ -8,10 +8,12 @@ The purpose of this analysis is:
 
 ## Results of Pewlett Hackard Analysis
 - Retiring Employees by Title
+  
   ![Retiring_Titles](Screenshots/Retiring_Titles.PNG)
 
 
 - Employees Eligible for Mentorship Program
+  
   ![Mentorship_Eligibility](Screenshots/Mentorship_Eligibility.PNG)
 
 ## Summary of Pewlett Hackard Analysis: 
