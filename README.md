@@ -1,4 +1,4 @@
-# Pewlett-Hackard-Analysis
+# Pewlett Hackard-Analysis
 
 ## Overview of Pewlett Hackard Analysis: 
 The purpose of this analysis is:
@@ -17,7 +17,7 @@ The purpose of this analysis is:
  ### Employees Eligible for Mentorship Program
   
   ![Mentorship_Eligibility](Screenshots/Mentorship_Eligibility.PNG)
-  - There are only 1549 retirement ready employees eleibilbe to mentor.  
+  - There are only 1,549 retirement ready employees eligible to mentor.  
   - The majority (70%) of these employees are staff and engineers.
  
 
@@ -29,11 +29,11 @@ The purpose of this analysis is:
   ![Retiring_Titles](Screenshots/Retiring_Titles.PNG)
   
  ### Retirement Ready Mentors:
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-There are only 1549 retirement-ready employees eleibilbe to mentor the next generation of Pewlett Hackard employees.  This is only 2% compared to the number of retirement roles needing to be filled.  This does not seem to be a sufficient enough number to mentor the remaining employees. 
+  - The question posed here is, are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+    - There are only 1,549 retirement-ready employees eligible to mentor the next generation of Pewlett Hackard employees.  This is only 2% compared to the number of retirement roles needing to be filled.  This does not seem to be a sufficient enough number to mentor the remaining employees, but it's likely that more analysis will need to be performed to determine this. 
+    - It appears that only two managers are retiring, according to the retiring employees by title table, so that may be a positive thing since the managers likely have the established knowledge to pass on to subordinates, but on the flip side, they are losing quite a few skilled employees so that could put more responsibility on managers' shoulders.
+    - Pewlett Hackard may want to consider broadening the mentor scope to include employees born in other years in addition to 1965.  For example, if they broadened the birth year scope of mentor employees to include one additional year, 1964, the number of eligible mentors will increase by 20%.
+    Broadened Mentorship Eligibility Query:
+    ![Broadened_Mentorship_Eligibility](Screenshots/Broadened_Mentorship_Eligibility.PNG)
 
-Pewlett Hackard may want to consider broadening the mentor scope to include employees born in other years in addition to 1965.  For example if you broadened the birth year of mentor employees to include one additional year, 1964, the number of eligible mentors will increase by 20%.
-Broadened Mentorship Eligibility Query:
-![Broadened_Mentorship_Eligibility](Screenshots/Broadened_Mentorship_Eligibility.PNG)
 
-Also, as stated earlier 64% or 57668 of the retiring roles are Senior Egineere and Senior Staff.  IN addition to that, 26468 or 29%  the majority of roles retiring fall intoffering incentives to retirment eligible employees who are Senior Staff and Engineers to come back as contractors for a certain amount of time to help with the mentoring.
