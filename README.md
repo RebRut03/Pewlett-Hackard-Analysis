@@ -26,7 +26,7 @@ The purpose of this analysis is:
  ### Number of Retiring Roles: 
   - According to the, retiring employees by title table below, there are 90,398 employees retiring.
   
-  ![Retiring_Titles](Screenshots/Retiring_Titles.PNG)
+   ![Retiring_Titles](Screenshots/Retiring_Titles.PNG)
   
  ### Retirement Ready Mentors:
   - The question posed here is, are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
